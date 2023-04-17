@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/).
 This change log adheres to standards from [Keep a CHANGELOG](https://keepachangelog.com).
 
-## [Unreleased]
+## [2.27.6] - 2023-04-17
 
 ### Fixed
 - [`no-duplicates`]: remove duplicate identifiers in duplicate imports ([#2577], thanks [@joe-matsec])
@@ -1523,7 +1523,8 @@ for info on changes for earlier releases.
 [#119]: https://github.com/import-js/eslint-plugin-import/issues/119
 [#89]: https://github.com/import-js/eslint-plugin-import/issues/89
 
-[Unreleased]: https://github.com/import-js/eslint-plugin-import/compare/v2.27.5...HEAD
+[Unreleased]: https://github.com/import-js/eslint-plugin-import/compare/v2.27.6...HEAD
+[2.27.6]: https://github.com/import-js/eslint-plugin-import/compare/v2.27.5...v2.27.6
 [2.27.5]: https://github.com/import-js/eslint-plugin-import/compare/v2.27.4...v2.27.5
 [2.27.4]: https://github.com/import-js/eslint-plugin-import/compare/v2.27.3...v2.27.4
 [2.27.3]: https://github.com/import-js/eslint-plugin-import/compare/v2.27.2...v2.27.3
